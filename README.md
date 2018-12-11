@@ -30,7 +30,7 @@ Os dados utilizados formam retirados do site de [dados abertos da UFRN](http://d
 - [Discentes](http://dados.ufrn.br/dataset/discentes)
 
 # <a id="codigo">Código</a>
-Agora iremos para a parte em que tentaremos encontrar as respostas das [perguntas orientadoras](#perguntas-orientadoras).
+Agora iremos para a parte em que tentaremos encontrar as respostas das perguntas orientadoras de cada tópico.
 
 ## <a id="dependencias">Dependências</a>
 Nessa seção, iremos declarar as dependências necessárias para o Jupyter Notebook executar corretamente, para isso iremos: declarar as variáveis globais que iremos utilizar, importar as libs necessárias e preparar os arquivos que temos para podermos utilizá-los nas seções seguintes.
